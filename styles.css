@@ -33,7 +33,7 @@ body {
 
 .container {
   width: 40rem;
-  height: 55rem;
+  height: 60rem;
   background-color: var(--container-gray);
   border-radius: 12px;
 }
