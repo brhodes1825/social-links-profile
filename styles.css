@@ -20,26 +20,22 @@
 html {
   font-size: 62.5%;
   width: 100vw;
-  height: 99vh;
+  height: 100vh;
   background-color: var(--body-gray);
 }
 
 body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   font-family: "Inter", sans-serif;
 }
 
 .container {
-  width: 13rem;
-  height: 10rem;
+  width: 40rem;
+  height: 55rem;
   background-color: var(--container-gray);
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 12px;
-  padding: 
 }
 
 
