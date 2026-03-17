@@ -19,12 +19,12 @@
 
 html {
   font-size: 62.5%;
-}
-
-body {
   width: 100vw;
   height: 99vh;
   background-color: var(--body-gray);
+}
+
+body {
   display: flex;
   align-items: center;
   justify-content: center;
