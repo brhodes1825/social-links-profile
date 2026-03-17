@@ -51,12 +51,12 @@ body {
   display: block;
 }
 
-header.name {
+.header .name {
   font-size: 100rem;
   color: var(--text-white);
 }
 
-header.location {
+.header .location {
   font-size: 100rem;
   color: var(--text-green);
 }
