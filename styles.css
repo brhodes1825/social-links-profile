@@ -79,7 +79,7 @@ a {
   padding: 1rem 2rem;
   background-color: var(--button-gray);
   color: var(--text-white);
-  border-radius: 1.2rem;
+  border-radius: 1rem;
   border-top: 1px solid var(--button-gray);
   border-right: 1px solid var(--button-gray);
   border-bottom: 1px solid var(--button-gray);
