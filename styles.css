@@ -39,16 +39,13 @@ body {
 }
 
 .header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: block;
 }
 
 .profile-pic {
   border-radius: 50%;
   width: 10rem;
   height: 10rem;
-  display: block;
 }
 
 .header .name {
