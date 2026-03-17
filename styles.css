@@ -43,7 +43,7 @@ body {
   margin: auto auto;
 }
 
-.profile-pic {
+.header .profile-pic {
   border-radius: 50%;
   width: 10rem;
   height: 10rem;
