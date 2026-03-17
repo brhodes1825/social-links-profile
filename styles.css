@@ -38,6 +38,25 @@ body {
   border-radius: 12px;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-pic {
+  border-radius: 50%;
+}
+
+header.name {
+  font-size: 100rem;
+  color: var(--text-white);
+}
+
+header.location {
+  font-size: 100rem;
+  color: var(--text-green);
+}
 
 
 
