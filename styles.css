@@ -4,7 +4,7 @@
 }
 
 :root {
-  --body-gray: hsl(0, 0%, 8%), black;
+  --body-gray: black;
   --container-gray: hsl(0, 0%, 12%);
   --button-gray: hsl(0, 0%, 20%);
   --text-white: hsl(0, 0%, 100%);
