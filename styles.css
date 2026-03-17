@@ -47,23 +47,23 @@ body {
   border-radius: 50%;
   width: 10rem;
   height: 10rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .header .name {
-  font-size: 8rem;
+  font-size: 3rem;
   color: var(--text-white);
 }
 
 .header .location {
-  font-size: 6rem;
-  margin-bottom: 3rem;
+  font-size: 2rem;
+  margin-bottom: 2rem;
   color: var(--text-green);
 }
 
 .header .about {
-  font-size: 6rem;
-  margin-bottom: 3rem;
+  font-size: 2rem;
+  margin-bottom: 2rem;
   color: var(--text-white);
 }
 
