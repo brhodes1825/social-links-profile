@@ -49,12 +49,12 @@ body {
 }
 
 .header .name {
-  font-size: 100rem;
+  font-size: 10rem;
   color: var(--text-white);
 }
 
 .header .location {
-  font-size: 100rem;
+  font-size: 10rem;
   color: var(--text-green);
 }
 
