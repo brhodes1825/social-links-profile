@@ -26,8 +26,8 @@ html {
 body {
   font-family: "Inter", sans-serif;
   background-color: var(--body-gray);
-  width: 99vw;
-  height: 99vh;
+  width: 99rem;
+  height: 99rem;
 }
 
 .container {
