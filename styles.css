@@ -4,7 +4,7 @@
 }
 
 :root {
-  --body-gray: black;
+  --body-gray: hsl(0, 0%, 8%), black;
   --container-gray: hsl(0, 0%, 12%);
   --button-gray: hsl(0, 0%, 20%);
   --text-white: hsl(0, 0%, 100%);
@@ -25,7 +25,7 @@ html {
 body {
   width: 100vw;
   height: 100vh;
-  background-color: var(--body-gray);
+  background-color: hsl(0, 0%, 8%);
   display: flex;
   align-items: center;
   justify-content: center;
