@@ -1,1 +1,15 @@
+:root {
+  --body-gray: hsl(0, 0%, 8%);
+  --container-gray: hsl(0, 0%, 12%);
+  --button-gray: hsl(0, 0%, 20%);
+  --text-white: hsl(0, 0%, 100%);
+  --text-green: hsl(75, 94%, 57%);
+}
+
+body {
+  width: 99vw;
+  height: 99vh;
+  color: var(--body-gray);
+}
+
 
