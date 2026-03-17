@@ -1,14 +1,14 @@
+@font-face {
+  font-family: "Inter";
+  src: url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+}
+
 :root {
   --body-gray: hsl(0, 0%, 8%), black;
   --container-gray: hsl(0, 0%, 12%);
   --button-gray: hsl(0, 0%, 20%);
   --text-white: hsl(0, 0%, 100%);
   --text-green: hsl(75, 94%, 57%);
-}
-
-@font-face {
-  font-family: "Inter";
-  src: url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
 }
 
 * {
@@ -21,11 +21,13 @@ html {
   font-size: 62.5%;
   width: 100vw;
   height: 100vh;
-  background-color: var(--body-gray);
 }
 
 body {
   font-family: "Inter", sans-serif;
+  background-color: var(--body-gray);
+  width: 99vw;
+  height: 99vh;
 }
 
 .container {
