@@ -71,6 +71,16 @@ body {
   display: block;
 }
 
+a {
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-decoration: none;
+  padding: 1rem 2rem;
+  background-color: var(--button-gray);
+  color: var(--text-white);
+  border-radius: 1.2rem;
+}
+
 
 
 
