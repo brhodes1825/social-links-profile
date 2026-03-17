@@ -6,6 +6,10 @@
   --text-green: hsl(75, 94%, 57%);
 }
 
+html {
+  font-size: 62.5%;
+}
+
 body {
   width: 99vw;
   height: 99vh;
